@@ -1,0 +1,17 @@
+16:12:10.571 [main] INFO  testCases.TC_001AccountRegistraionTest - **** Clicked on Register Link ***
+16:12:10.581 [main] INFO  testCases.TC_001AccountRegistraionTest - ****Providing customer details ****
+16:12:12.288 [main] INFO  testCases.TC_001AccountRegistraionTest - ****Validating expected message***
+16:12:16.361 [main] INFO  testCases.TC_001AccountRegistraionTest - ****Finished TC_001AccountRegistrationTest ***
+14:01:29.537 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\nomit\eclipse-workspace\OpenCartV1\master.xml
+
+14:01:37.842 [main] INFO  testCases.TC_0002LoginTest - ****Starting TC_0002LoginTest*****
+14:01:39.667 [main] INFO  testCases.TC_0002LoginTest - *****Finished TC_0002LoginTest*****
+11:01:19.373 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\nomit\eclipse-workspace\OpenCartV1\master.xml
+
+11:01:33.352 [main] INFO  testCases.TC_0002LoginTest - ****Starting TC_0002LoginTest*****
+16:01:45.988 [main] INFO  testCases.TC_0002LoginTest - ****Starting TC_0002LoginTest*****
+16:01:49.983 [main] INFO  testCases.TC_0002LoginTest - ****Starting TC_0002LoginTest*****
+16:01:57.256 [main] INFO  testCases.TC_0002LoginTest - ****Starting TC_0002LoginTest*****
+16:01:46.247 [main] INFO  testCases.TC_0002LoginTest - ****Starting TC_0002LoginTest*****
